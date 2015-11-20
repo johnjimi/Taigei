@@ -1,0 +1,18 @@
++-app
+| +-assets
+| | +-images
+| | +-javascripts
+| | +-stylesheets
+| +-controllers
+| +-helpers
+| +-mailers
+| +-models
+| +-views
++-config
++-db
++-features
++-lib
++-log
++-public
++-script
++-spec
