@@ -1,4 +1,4 @@
-# Taigei
-Ruby on Rails projects
+#taigei
 
-This will be ongoing project. Roobi on Taigei
+- Jekyll testing
+- Utilizing Jekyll and its capabilities.
